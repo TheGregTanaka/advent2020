@@ -18,3 +18,4 @@ as a commandline arguement. Below is a list of exceptions.
 cd dayXX && cargo run input/input.txt
 ```
 `day01` - `cargo run < input/input.txt`
+as of day07 if no file name is supplied, the _test.txt file will be used.
